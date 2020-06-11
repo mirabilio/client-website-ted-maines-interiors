@@ -10,5 +10,21 @@
       "center": false,
       "_template": "BannerCardBlock"
     }
+  ],
+  "banner": [
+    {
+      "_template": "BannerBlock",
+      "headerLines": [
+        {
+          "lineAlignment": "Center",
+          "phrases": [
+            {
+              "wordsFontSize": "1",
+              "words": "some wordssssss"
+            }
+          ]
+        }
+      ]
+    }
   ]
 }

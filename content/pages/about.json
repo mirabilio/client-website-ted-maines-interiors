@@ -3,5 +3,12 @@
   "template": "src/templates/about.js",
   "title": "About",
   "image": "../images/winter-park-royale-15.jpg",
-  "content": "hi"
+  "content": "hi",
+  "bannerCard": [
+    {
+      "content": "sss",
+      "center": false,
+      "_template": "BannerCardBlock"
+    }
+  ]
 }

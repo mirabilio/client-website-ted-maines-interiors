@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-tinacms-site-admin",
+  "author": "Pat @ Mirabilio",
+  "version": "0.0.0",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "tinacms",
+    "tina-cms",
+    "cms"
+  ],
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "yarn clean && gatsby develop -H 0.0.0.0",
+    "clean": "gatsby clean",
+    "semantic-release": "semantic-release",
+    "release": "semantic-release",
+    "release-dry-run": "semantic-release --dry-run"
+  }
+}

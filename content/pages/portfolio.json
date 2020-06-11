@@ -1,0 +1,8 @@
+{
+  "path": "/portfolio",
+  "template": "src/templates/portfolio.js",
+  "title": "Portfolio",
+  "message": "*hello*",
+  "anotherMessage": "**hello again**",
+  "image": "../images/winter-park-royale-15.jpg"
+}

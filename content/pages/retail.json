@@ -1,0 +1,8 @@
+{
+  "path": "/retail",
+  "template": "src/templates/retail.js",
+  "title": "Retail",
+  "message": "*hello*",
+  "anotherMessage": "**hello again**",
+  "image": "../images/winter-park-royale-15.jpg"
+}

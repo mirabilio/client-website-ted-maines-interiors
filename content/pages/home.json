@@ -1,0 +1,8 @@
+{
+  "path": "/",
+  "template": "src/templates/home.js",
+  "title": "Home Page",
+  "message": "*hello*",
+  "anotherMessage": "**hello again**",
+  "image": "../images/winter-park-royale-15.jpg"
+}

@@ -19,8 +19,8 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "wordsFontSize": "1",
-              "words": "some wordssssss"
+              "fontSize": "4",
+              "words": "MEET"
             }
           ]
         }
@@ -30,7 +30,7 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "wordsFontSize": "1",
+              "fontSize": "1",
               "words": "some words111111"
             }
           ]

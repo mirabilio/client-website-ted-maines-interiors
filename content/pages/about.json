@@ -21,6 +21,10 @@
             {
               "fontSize": "7",
               "words": "MEET"
+            },
+            {
+              "fontSize": "1",
+              "words": "the"
             }
           ]
         }
@@ -30,8 +34,8 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "3",
-              "words": "the"
+              "fontSize": "7",
+              "words": "MEET"
             }
           ]
         }

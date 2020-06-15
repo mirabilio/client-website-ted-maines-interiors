@@ -52,5 +52,22 @@
       ]
     }
   ],
+  "people": [
+    {
+      "personName": "TED MAINES",
+      "personTitle": "PRESIDENT / PRINCIPAL",
+      "bio": "bio",
+      "questions": [
+        {
+          "q": "Personal Design Style",
+          "a": "Classic Modern with a slight retro twist"
+        },
+        {
+          "q": "Background Noise",
+          "a": "NPR"
+        }
+      ]
+    }
+  ],
   "fileRelativePath": "/about"
 }

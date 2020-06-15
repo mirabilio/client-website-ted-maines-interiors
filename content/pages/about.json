@@ -3,18 +3,19 @@
   "template": "src/templates/about.js",
   "title": "About",
   "image": "../images/winter-park-royale-15.jpg",
-  "content": "hi",
-  "bannerCard": [
-    {
-      "content": "sss",
-      "center": false,
-      "_template": "BannerCardBlock"
-    }
-  ],
   "banner": [
     {
       "_template": "BannerBlock",
       "headerLines": [
+        {
+          "lineAlignment": "Center",
+          "phrases": [
+            {
+              "fontSize": "3",
+              "words": "the"
+            }
+          ]
+        },
         {
           "lineAlignment": "Center",
           "phrases": [
@@ -29,17 +30,7 @@
           ]
         }
       ],
-      "subheaderLines": [
-        {
-          "lineAlignment": "Center",
-          "phrases": [
-            {
-              "fontSize": "7",
-              "words": "MEET"
-            }
-          ]
-        }
-      ]
+      "subheaderLines": []
     }
   ],
   "fileRelativePath": "/about"

@@ -11,7 +11,7 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "9",
+              "fontSize": "8",
               "words": "MEET"
             }
           ]
@@ -20,7 +20,7 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "5",
+              "fontSize": "4",
               "words": "THE"
             }
           ]
@@ -29,26 +29,23 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "9",
+              "fontSize": "8",
               "words": "TEAM"
-            }
-          ]
-        },
-        {
-          "lineAlignment": "Center",
-          "phrases": [
-            {
-              "fontSize": "3",
-              "words": "AT"
-            },
-            {
-              "fontSize": "6",
-              "words": "TED MAINES INTERIORS"
             }
           ]
         }
       ],
-      "subheaderLines": []
+      "subheaderLines": [
+        {
+          "lineAlignment": "Center",
+          "phrases": [
+            {
+              "fontSize": "1",
+              "words": "at"
+            }
+          ]
+        }
+      ]
     }
   ],
   "fileRelativePath": "/about"

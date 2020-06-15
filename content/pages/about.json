@@ -11,7 +11,7 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "8",
+              "fontSize": "9",
               "words": "MEET"
             }
           ]
@@ -20,8 +20,8 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "3",
-              "words": "the"
+              "fontSize": "5",
+              "words": "THE"
             }
           ]
         },
@@ -29,7 +29,7 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "7",
+              "fontSize": "9",
               "words": "TEAM"
             }
           ]

@@ -67,7 +67,8 @@
           "q": "Background Noise",
           "a": "NPR"
         }
-      ]
+      ],
+      "image": "../images/ted-maines.jpg"
     },
     {
       "personName": "New Person",

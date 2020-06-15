@@ -11,8 +11,8 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "3",
-              "words": "the"
+              "fontSize": "7",
+              "words": "TEAM"
             }
           ]
         },
@@ -22,7 +22,12 @@
             {
               "fontSize": "7",
               "words": "MEET"
-            },
+            }
+          ]
+        },
+        {
+          "lineAlignment": "Center",
+          "phrases": [
             {
               "fontSize": "3",
               "words": "the"

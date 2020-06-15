@@ -52,9 +52,10 @@
       "image": "../images/showroom1.jpg"
     }
   ],
+  "aboutText": "TED MAINES INTERIORS IS AN AWARD-WINNING, FULL-SERVICE INTERIOR DESIGN FIRM LOCATED IN WINTER PARK’S DESIGN DISTRICT. OUR BESPOKE INTERIORS HAVE BEEN FEATURED IN LOCAL AND NATIONAL PUBLICATIONS. WE’RE COMMITTED TO EXCEEDING OUR CLIENTS’ EXPECTATIONS ON BOTH RESIDENTIAL AND COMMERCIAL PROJECTS BY APPLYING EXPERTISE IN SPACE PLANNING, FINISH SELECTION, LIGHTING AND FURNISHINGS. OUR RETAIL SHOWROOM FEATURES SELECTIONS FROM KNOLL, FLOS LIGHTING, MUUTO, TOM DIXON AND MORE. AT TED MAINES INTERIORS, IT S ALL ABOUT THE CLIENT.",
   "people": [
     {
-      "personName": "TED MAINES",
+      "personName": "Ted has been a part of the Central Florida community for many years. He attended Rutgers University and has executive management experience in the fields of finance, real estate development, construction, and design. His lifelong passion for interior design, art, and architecture led him back to his roots with Ted Maines Interiors, an award-winning, full-service interior design showroom and studio conveniently located in the design district of lovely Winter Park, FL. Ted, along with his husband Jeffrey Miller and beautiful Italian Greyhound, Donatella, live in downtown Orlando and have been recognized for their many years of community service and philanthropy.",
       "personTitle": "PRESIDENT / PRINCIPAL",
       "bio": "bio",
       "questions": [
@@ -67,6 +68,10 @@
           "a": "NPR"
         }
       ]
+    },
+    {
+      "personName": "New Person",
+      "id": "sym7eu0ru"
     }
   ],
   "fileRelativePath": "/about"

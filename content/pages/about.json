@@ -2,7 +2,6 @@
   "path": "/about",
   "template": "src/templates/about.js",
   "title": "About",
-  "image": "../images/winter-park-royale-15.jpg",
   "banner": [
     {
       "_template": "BannerBlock",
@@ -49,7 +48,8 @@
             }
           ]
         }
-      ]
+      ],
+      "image": "../images/showroom1.jpg"
     }
   ],
   "people": [

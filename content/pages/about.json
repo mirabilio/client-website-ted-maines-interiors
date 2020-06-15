@@ -71,8 +71,11 @@
       "image": "../images/ted-maines.jpg"
     },
     {
-      "personName": "New Person",
-      "id": "sym7eu0ru"
+      "personName": "TERRY SMATHERS",
+      "id": "sym7eu0ru",
+      "personTitle": "ASSOCIATE DESIGNER",
+      "image": "../images/terry-smathers.jpg",
+      "bio": "Terry is a Central Floridian born and raised in Lake Mary who now makes Colonial Town his home. Growing up he enjoyed history, art, and architecture; and went to school at FSU where he graduated with a double major in History and Art History. Terry made a career in management and visual merchandising that lasted 20+ years, until going back to school for Interior Design. He now has a new found passion with design in addition to lending his merchandising skills to the showroom. He loves creating moments so that each client walks into their new space feeling like it is home. Terry’s hobbies include painting, drawing, watching documentaries, and cooking. He looks forward to his weekly visits with his mom, lounging with his two pups, and spending time with friends."
     }
   ],
   "fileRelativePath": "/about"

@@ -40,8 +40,12 @@
           "lineAlignment": "Center",
           "phrases": [
             {
-              "fontSize": "1",
-              "words": "at"
+              "fontSize": "2",
+              "words": "AT"
+            },
+            {
+              "fontSize": "4",
+              "words": "TED MAINES INTERIORS"
             }
           ]
         }

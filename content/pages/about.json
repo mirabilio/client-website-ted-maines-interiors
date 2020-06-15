@@ -33,6 +33,19 @@
               "words": "TEAM"
             }
           ]
+        },
+        {
+          "lineAlignment": "Center",
+          "phrases": [
+            {
+              "fontSize": "3",
+              "words": "AT"
+            },
+            {
+              "fontSize": "6",
+              "words": "TED MAINES INTERIORS"
+            }
+          ]
         }
       ],
       "subheaderLines": []

@@ -4,19 +4,30 @@
   "title": "About",
   "banner": [
     {
-      "key": "2a151c56-688e-4f7f-87b7-0f33644cab97",
+      "key": "5d78b3d6-9afd-4114-b502-626ac8617484",
       "_template": "BannerBlock",
       "headerLines": [
         {
-          "key": "408d4103-6d1b-4a12-9a39-e2e4b2c5e2fd",
+          "lineAlignment": "Center",
+          "key": "10489e21-e000-4dfd-92a3-1b70b2f7d7b3",
           "phrases": [
             {
               "fontSize": "8",
               "words": "MEET",
-              "key": "1898fa67-2904-42a3-8eb3-5ac718ab1da3"
+              "key": "a7081d7f-b738-48f3-81c9-11ebbf055522"
             }
-          ],
-          "lineAlignment": "Center"
+          ]
+        },
+        {
+          "lineAlignment": "Center",
+          "key": "60fb83b3-ad34-464e-924e-a71e4b619739",
+          "phrases": [
+            {
+              "fontSize": "4",
+              "words": "THE",
+              "key": "8606ed4e-30fb-4412-84da-c553cfc14bb1"
+            }
+          ]
         }
       ]
     }

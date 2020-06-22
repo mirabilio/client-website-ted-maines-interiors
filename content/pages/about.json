@@ -85,28 +85,38 @@
       "title": "AWARDS",
       "awards": [
         {
-          "key": "600c338a-cdf1-43e5-928a-1469fb0cb2d5",
-          "awardName": "2013 Favorite Interior Design Firm",
-          "bestower": "Watermark Magazine"
+          "key": "78c469ba-e0a6-43c4-89be-fd761b8d3dda",
+          "awardName": "2018 ASID First Place",
+          "bestower": "Leed Certified Project – First Green Bank, Downtown Orlando"
         },
         {
-          "key": "d5b224a8-2ea4-436a-8348-ab67dadf7cf0",
-          "awardName": "2013 Best of Orlando",
+          "key": "2993e76d-b233-49fb-85c4-fb5ac245b8ab",
+          "awardName": "2018 First in world",
+          "bestower": "LEED v4 ID&C Retail Platinum Certification – First Green Bank, Downtown Orlando"
+        },
+        {
+          "key": "dfeeead2-1e8c-4be8-9194-ee2365a0148c",
+          "awardName": "2018 Best Remodel or Renovation",
+          "bestower": "“Winter Park Royale” – SEBC Silver Aurora Award"
+        },
+        {
+          "key": "25b86245-b452-4139-8a25-9c3e82630e72",
+          "awardName": "2018 Best of Orlando",
           "bestower": "Orlando Magazine"
         },
         {
-          "key": "09fc0332-2bc6-49aa-9a14-4df578a2cd67",
-          "awardName": "2014 Best of Orlando",
-          "bestower": "Orlando Magazine"
+          "key": "6cb57e8a-8b8c-4ab9-90a3-1708c8af85f0",
+          "awardName": "2018 Best in Category",
+          "bestower": "GOBA Parade of Homes – “Modern on Minnehaha”"
         },
         {
-          "key": "c3b5204d-6614-42ce-96cb-3762764bdd46",
-          "awardName": "2015 Best of Orlando",
-          "bestower": "Orlando Magazine"
+          "key": "882c6fb9-6578-4243-b782-cdd71bacece3",
+          "awardName": "2018 Golden Brick Award for Sustainability",
+          "bestower": "First Green Bank, Downtown Orlando"
         },
         {
-          "key": "091d89f5-42d8-4f07-8625-a752d0682e6c",
-          "awardName": "2016 Best of Orlando",
+          "key": "134d475c-fa6a-4925-9b00-182973ac728a",
+          "awardName": "2017 Best of Orlando",
           "bestower": "Orlando Magazine"
         },
         {
@@ -115,39 +125,29 @@
           "bestower": "Orlando Business Journal"
         },
         {
-          "key": "134d475c-fa6a-4925-9b00-182973ac728a",
-          "awardName": "2017 Best of Orlando",
+          "key": "091d89f5-42d8-4f07-8625-a752d0682e6c",
+          "awardName": "2016 Best of Orlando",
           "bestower": "Orlando Magazine"
         },
         {
-          "key": "882c6fb9-6578-4243-b782-cdd71bacece3",
-          "awardName": "2018 Golden Brick Award for Sustainability",
-          "bestower": "First Green Bank, Downtown Orlando"
-        },
-        {
-          "key": "6cb57e8a-8b8c-4ab9-90a3-1708c8af85f0",
-          "awardName": "2018 Best in Category",
-          "bestower": "GOBA Parade of Homes – “Modern on Minnehaha”"
-        },
-        {
-          "key": "25b86245-b452-4139-8a25-9c3e82630e72",
-          "awardName": "2018 Best of Orlando",
+          "key": "c3b5204d-6614-42ce-96cb-3762764bdd46",
+          "awardName": "2015 Best of Orlando",
           "bestower": "Orlando Magazine"
         },
         {
-          "key": "dfeeead2-1e8c-4be8-9194-ee2365a0148c",
-          "awardName": "2018 Best Remodel or Renovation",
-          "bestower": "“Winter Park Royale” – SEBC Silver Aurora Award"
+          "key": "09fc0332-2bc6-49aa-9a14-4df578a2cd67",
+          "awardName": "2014 Best of Orlando",
+          "bestower": "Orlando Magazine"
         },
         {
-          "key": "2993e76d-b233-49fb-85c4-fb5ac245b8ab",
-          "awardName": "2018 First in world",
-          "bestower": "LEED v4 ID&C Retail Platinum Certification – First Green Bank, Downtown Orlando"
+          "key": "d5b224a8-2ea4-436a-8348-ab67dadf7cf0",
+          "awardName": "2013 Best of Orlando",
+          "bestower": "Orlando Magazine"
         },
         {
-          "key": "78c469ba-e0a6-43c4-89be-fd761b8d3dda",
-          "awardName": "2018 ASID First Place",
-          "bestower": "Leed Certified Project – First Green Bank, Downtown Orlando"
+          "key": "600c338a-cdf1-43e5-928a-1469fb0cb2d5",
+          "awardName": "2013 Favorite Interior Design Firm",
+          "bestower": "Watermark Magazine"
         }
       ]
     }

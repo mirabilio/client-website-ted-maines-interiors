@@ -135,5 +135,14 @@
         }
       ]
     }
+  ],
+  "people": [
+    {
+      "key": "5f8b8b7f-9920-47af-8a85-ee9aab611a40",
+      "personName": "TED MAINES",
+      "personTitle": "PRESIDENT / PRINCIPAL",
+      "bio": "Ted has been a part of the Central Florida community for many years. He attended Rutgers University and has executive management experience in the fields of finance, real estate development, construction, and design. His lifelong passion for interior design, art, and architecture led him back to his roots with Ted Maines Interiors, an award-winning, full-service interior design showroom and studio conveniently located in the design district of lovely Winter Park, FL. Ted, along with his husband Jeffrey Miller and beautiful Italian Greyhound, Donatella, live in downtown Orlando and have been recognized for their many years of community service and philanthropy.",
+      "image": "../images/ted-maines.jpg"
+    }
   ]
 }

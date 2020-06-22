@@ -85,6 +85,11 @@
       "title": "AWARDS",
       "awards": [
         {
+          "key": "793b9233-4c98-4651-acc0-32a3331143e4",
+          "awardName": "2016 Reader’s Choice",
+          "bestower": "Orlando Business Journal"
+        },
+        {
           "key": "134d475c-fa6a-4925-9b00-182973ac728a",
           "awardName": "2017 Best of Orlando",
           "bestower": "Orlando Magazine"

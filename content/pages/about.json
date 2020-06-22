@@ -4,8 +4,20 @@
   "title": "About",
   "banner": [
     {
+      "key": "2a151c56-688e-4f7f-87b7-0f33644cab97",
       "_template": "BannerBlock",
-      "image": "../images/showroom1.jpg"
+      "headerLines": [
+        {
+          "key": "408d4103-6d1b-4a12-9a39-e2e4b2c5e2fd",
+          "phrases": [
+            {
+              "fontSize": "8",
+              "words": "MEET",
+              "key": "1898fa67-2904-42a3-8eb3-5ac718ab1da3"
+            }
+          ]
+        }
+      ]
     }
   ],
   "aboutText": " IS AN AWARD-WINNING, FULL-SERVICE INTERIOR DESIGN FIRM LOCATED IN WINTER PARK’S DESIGN DISTRICT. OUR BESPOKE INTERIORS HAVE BEEN FEATURED IN LOCAL AND NATIONAL PUBLICATIONS. WE’RE COMMITTED TO EXCEEDING OUR CLIENTS’ EXPECTATIONS ON BOTH RESIDENTIAL AND COMMERCIAL PROJECTS BY APPLYING EXPERTISE IN SPACE PLANNING, FINISH SELECTION, LIGHTING AND FURNISHINGS. OUR RETAIL SHOWROOM FEATURES SELECTIONS FROM KNOLL, FLOS LIGHTING, MUUTO, TOM DIXON AND MORE. AT TED MAINES INTERIORS, IT S ALL ABOUT THE CLIENT.",

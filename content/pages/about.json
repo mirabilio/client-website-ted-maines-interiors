@@ -28,6 +28,17 @@
               "key": "8606ed4e-30fb-4412-84da-c553cfc14bb1"
             }
           ]
+        },
+        {
+          "lineAlignment": "Center",
+          "key": "f2aedf90-7c10-4706-bb34-b9ad70ecb486",
+          "phrases": [
+            {
+              "fontSize": "8",
+              "words": "TEAM",
+              "key": "0f1f3add-18ad-471a-bdca-580424908319"
+            }
+          ]
         }
       ]
     }

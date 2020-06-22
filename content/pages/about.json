@@ -2,33 +2,13 @@
   "path": "/about",
   "template": "src/templates/about.js",
   "title": "About",
-  "banner": [],
-  "aboutText": " IS AN AWARD-WINNING, FULL-SERVICE INTERIOR DESIGN FIRM LOCATED IN WINTER PARK’S DESIGN DISTRICT. OUR BESPOKE INTERIORS HAVE BEEN FEATURED IN LOCAL AND NATIONAL PUBLICATIONS. WE’RE COMMITTED TO EXCEEDING OUR CLIENTS’ EXPECTATIONS ON BOTH RESIDENTIAL AND COMMERCIAL PROJECTS BY APPLYING EXPERTISE IN SPACE PLANNING, FINISH SELECTION, LIGHTING AND FURNISHINGS. OUR RETAIL SHOWROOM FEATURES SELECTIONS FROM KNOLL, FLOS LIGHTING, MUUTO, TOM DIXON AND MORE. AT TED MAINES INTERIORS, IT S ALL ABOUT THE CLIENT.",
-  "people": [
+  "banner": [
     {
-      "personName": "TED MAINES",
-      "personTitle": "PRESIDENT / PRINCIPAL",
-      "bio": "Ted has been a part of the Central Florida community for many years. He attended Rutgers University and has executive management experience in the fields of finance, real estate development, construction, and design. His lifelong passion for interior design, art, and architecture led him back to his roots with Ted Maines Interiors, an award-winning, full-service interior design showroom and studio conveniently located in the design district of lovely Winter Park, FL. Ted, along with his husband Jeffrey Miller and beautiful Italian Greyhound, Donatella, live in downtown Orlando and have been recognized for their many years of community service and philanthropy.",
-      "questions": [
-        {
-          "q": "Personal Design Style",
-          "a": "Classic Modern with a slight retro twist"
-        },
-        {
-          "q": "Background Noise",
-          "a": "NPR"
-        }
-      ],
-      "image": "../images/ted-maines.jpg"
-    },
-    {
-      "personName": "TERRY SMATHERS",
-      "id": "sym7eu0ru",
-      "personTitle": "ASSOCIATE DESIGNER",
-      "image": "../images/terry-smathers.jpg",
-      "bio": "Terry is a Central Floridian born and raised in Lake Mary who now makes Colonial Town his home. Growing up he enjoyed history, art, and architecture; and went to school at FSU where he graduated with a double major in History and Art History. Terry made a career in management and visual merchandising that lasted 20+ years, until going back to school for Interior Design. He now has a new found passion with design in addition to lending his merchandising skills to the showroom. He loves creating moments so that each client walks into their new space feeling like it is home. Terry’s hobbies include painting, drawing, watching documentaries, and cooking. He looks forward to his weekly visits with his mom, lounging with his two pups, and spending time with friends."
+      "_template": "BannerBlock",
+      "image": "../images/showroom1.jpg"
     }
   ],
+  "aboutText": " IS AN AWARD-WINNING, FULL-SERVICE INTERIOR DESIGN FIRM LOCATED IN WINTER PARK’S DESIGN DISTRICT. OUR BESPOKE INTERIORS HAVE BEEN FEATURED IN LOCAL AND NATIONAL PUBLICATIONS. WE’RE COMMITTED TO EXCEEDING OUR CLIENTS’ EXPECTATIONS ON BOTH RESIDENTIAL AND COMMERCIAL PROJECTS BY APPLYING EXPERTISE IN SPACE PLANNING, FINISH SELECTION, LIGHTING AND FURNISHINGS. OUR RETAIL SHOWROOM FEATURES SELECTIONS FROM KNOLL, FLOS LIGHTING, MUUTO, TOM DIXON AND MORE. AT TED MAINES INTERIORS, IT S ALL ABOUT THE CLIENT.",
   "fileRelativePath": "/about",
   "awardsSection": [
     {

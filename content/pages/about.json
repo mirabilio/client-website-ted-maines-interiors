@@ -85,6 +85,11 @@
       "title": "AWARDS",
       "awards": [
         {
+          "key": "134d475c-fa6a-4925-9b00-182973ac728a",
+          "awardName": "2017 Best of Orlando",
+          "bestower": "Orlando Magazine"
+        },
+        {
           "key": "882c6fb9-6578-4243-b782-cdd71bacece3",
           "awardName": "2018 Golden Brick Award for Sustainability",
           "bestower": "First Green Bank, Downtown Orlando"

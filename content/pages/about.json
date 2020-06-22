@@ -78,5 +78,65 @@
       "bio": "Terry is a Central Floridian born and raised in Lake Mary who now makes Colonial Town his home. Growing up he enjoyed history, art, and architecture; and went to school at FSU where he graduated with a double major in History and Art History. Terry made a career in management and visual merchandising that lasted 20+ years, until going back to school for Interior Design. He now has a new found passion with design in addition to lending his merchandising skills to the showroom. He loves creating moments so that each client walks into their new space feeling like it is home. Terry’s hobbies include painting, drawing, watching documentaries, and cooking. He looks forward to his weekly visits with his mom, lounging with his two pups, and spending time with friends."
     }
   ],
-  "fileRelativePath": "/about"
+  "fileRelativePath": "/about",
+  "awardsSection": [
+    {
+      "_template": "AwardsBlock",
+      "title": "AWARDS",
+      "awards": [
+        {
+          "awardName": "2018 ASID First Place",
+          "bestower": "Leed Certified Project – First Green Bank, Downtown Orlando"
+        },
+        {
+          "awardName": "2018 First in world",
+          "bestower": "LEED v4 ID&C Retail Platinum Certification – First Green Bank, Downtown Orlando"
+        },
+        {
+          "awardName": "2018 Best Remodel or Renovation",
+          "bestower": "“Winter Park Royale” – SEBC Silver Aurora Award"
+        },
+        {
+          "awardName": "2018 Best of Orlando",
+          "bestower": "Orlando Magazine"
+        },
+        {
+          "awardName": "2018 Best in Category",
+          "bestower": "GOBA Parade of Homes – “Modern on Minnehaha”"
+        },
+        {
+          "awardName": "2018 Golden Brick Award for Sustainability",
+          "bestower": "First Green Bank, Downtown Orlando"
+        },
+        {
+          "awardName": "2017 Best of Orlando",
+          "bestower": "Orlando Magazine"
+        },
+        {
+          "awardName": "2016 Reader’s Choice",
+          "bestower": "Orlando Business Journal"
+        },
+        {
+          "awardName": "2016 Best of Orlando",
+          "bestower": "Orlando Magazine"
+        },
+        {
+          "awardName": "2015 Best of Orlando",
+          "bestower": "Orlando Magazine"
+        },
+        {
+          "awardName": "2014 Best of Orlando",
+          "bestower": "Orlando Magazine"
+        },
+        {
+          "awardName": "2013 Best of Orlando",
+          "bestower": "Orlando Magazine"
+        },
+        {
+          "awardName": "2013 Favorite Interior Design Firm",
+          "bestower": "Watermark Magazine"
+        }
+      ]
+    }
+  ]
 }

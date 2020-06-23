@@ -180,6 +180,44 @@
         }
       ],
       "portraitOffset": ".43"
+    },
+    {
+      "key": "0af49a7d-d296-4456-8d05-d9a4ddc4b8b8",
+      "bio": "Terry is a Central Floridian born and raised in Lake Mary who now makes Colonial Town his home. Growing up he enjoyed history, art, and architecture; and went to school at FSU where he graduated with a double major in History and Art History. Terry made a career in management and visual merchandising that lasted 20+ years, until going back to school for Interior Design. He now has a new found passion with design in addition to lending his merchandising skills to the showroom. He loves creating moments so that each client walks into their new space feeling like it is home. Terry’s hobbies include painting, drawing, watching documentaries, and cooking. He looks forward to his weekly visits with his mom, lounging with his two pups, and spending time with friends.",
+      "personName": "TERRY SMATHERS",
+      "personTitle": "ASSOCIATE DESIGNER",
+      "image": "../images/terry-smathers.jpg",
+      "questions": [
+        {
+          "key": "335e125f-401e-4f55-b828-6a596ede23e9",
+          "q": "Personal Design Style",
+          "a": "Modern and Eclectic."
+        },
+        {
+          "key": "2af2cea3-7ff8-4762-adb7-d31dfa41fe3f"
+        },
+        {
+          "key": "5f1508c7-839e-483a-bfdd-1a25768ff98b"
+        },
+        {
+          "key": "e9751418-7619-4cbc-bc7c-fa6d4cc1890f"
+        },
+        {
+          "key": "d52f1747-cea8-448d-899f-6ccc54836082"
+        },
+        {
+          "key": "5dc2ae85-e6c5-46a0-b6bb-c59f23ed3135"
+        },
+        {
+          "key": "2c623f82-8e83-4287-afa6-244d75c7515b"
+        },
+        {
+          "key": "42e333c3-e07e-4547-bdb7-59c3bc4cc3bf"
+        },
+        {
+          "key": "df68d7b4-17cd-41b1-a964-7d110d6ec768"
+        }
+      ]
     }
   ]
 }
